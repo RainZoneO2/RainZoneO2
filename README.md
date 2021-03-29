@@ -1,4 +1,4 @@
-### Hey, I'm Rain, a Computer Engineering student!👋
+### Hey there! I'm Rain, a Computer Engineering student!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainzoneo2&count_private=true&show_icons=true)
 
