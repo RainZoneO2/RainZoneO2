@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rain_zoneo2&count_private=true&show_icons=true)
+
 <!--
 **RainZoneO2/RainZoneO2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
