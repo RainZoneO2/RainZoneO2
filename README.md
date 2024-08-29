@@ -1,6 +1,6 @@
 ### Hey there! I'm Ghaith, a Software Developer!👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainzoneo2&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainzoneo2&count_private=true&show_icons=true&hide_rank=true)
 
 - 🔭 I’m currently working on [This GCloud OCR interface](https://github.com/RainZoneO2/GCloud-OCR-Interface-Electron)
 - 🌱 I’m currently learning React and Three.js
