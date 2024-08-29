@@ -2,11 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainzoneo2&count_private=true&show_icons=true)
 
-- 🔭 I’m currently working on ![This GCloud OCR interface](https://github.com/RainZoneO2/GCloud-OCR-Interface-Electron)
+- 🔭 I’m currently working on [This GCloud OCR interface](https://github.com/RainZoneO2/GCloud-OCR-Interface-Electron)
 - 🌱 I’m currently learning React and Three.js
 - 🤔 I’m looking for help with fullstack projects and anything where I can apply my skills!
 - 💬 Ask me about AI Safety!
-- 📫 How to reach me: https://www.linkedin.com/in/ghaith-ahmad/
+- 📫 How to reach me: [On LinkedIn!](https://www.linkedin.com/in/ghaith-ahmad/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an absolute nerd when it comes to AI Safety (also gaming)
 
