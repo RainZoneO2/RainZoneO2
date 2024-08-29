@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainzoneo2&count_private=true&show_icons=true&rank_icon=github)
 
-- 🔭 I’m currently working on [This GCloud OCR interface](https://github.com/RainZoneO2/GCloud-OCR-Interface-Electron)
+- 🔭 I’m currently working on a [GCloud OCR interface](https://github.com/RainZoneO2/GCloud-OCR-Interface-Electron)
 - 🌱 I’m currently learning **React** and **Three.js**
 - 🤔 I’m looking for help with fullstack projects and anything where I can apply my skills!
 - 💬 Ask me about **AI Safety**!
